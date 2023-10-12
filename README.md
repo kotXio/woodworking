@@ -4,7 +4,7 @@
 # Projects: 
 
 ## Sound-reactive Glowing Wooden Box
-(video coming soon)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VWFkIC3c_Dk/0.jpg)](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
 
 ## Magnetic Wooden Tripod Mount for iPhone
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p3HfRSA6CYs/0.jpg)](https://www.youtube.com/watch?v=p3HfRSA6CYs)
