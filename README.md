@@ -6,7 +6,6 @@
 ## Wooden Mac mini Tambour Stand Organizer
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wSy2EWEsO64/0.jpg)](https://www.youtube.com/watch?v=wSy2EWEsO64)
 
-
 ## Sound-reactive Glowing Wooden Box
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VWFkIC3c_Dk/0.jpg)](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
 
