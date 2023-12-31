@@ -3,6 +3,9 @@
 
 # Projects: 
 
+## Wooden Round Maya Aztec Jewelry Box
+[![Wooden Mac mini Tambour Stand Organizer](https://img.youtube.com/vi/ne3xrzAO97I/0.jpg)](https://www.youtube.com/watch?v=ne3xrzAO97I)
+
 ## Wooden Mac mini Tambour Stand Organizer
 [![Wooden Mac mini Tambour Stand Organizer](https://img.youtube.com/vi/wSy2EWEsO64/0.jpg)](https://www.youtube.com/watch?v=wSy2EWEsO64)
 
