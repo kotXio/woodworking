@@ -39,10 +39,16 @@
 
 [![Oak 4 Compartment Engraved Wooden Plate](https://img.youtube.com/vi/ocSn4xdQ-CY/0.jpg)](https://www.youtube.com/watch?v=ocSn4xdQ-CY)
 
+## Big Jewelry Box with Floral Design
+[Sources and drawings](https://github.com/kotXio/woodworking/blob/main/big_jewelry_box_floral_design)
+
+![Big Jewelry Box with Floral Design](https://github.com/kotXio/woodworking/blob/main/big_jewelry_box_floral_design/banner.jpg?raw=true "Images for engraving")
+
+
 ## Big Oak Wooden Plate
 [images for engraving](https://github.com/kotXio/woodworking/tree/main/big_wooden_plate)
 
-![Big Oak Wooden Plate](https://github.com/kotXio/woodworking/blob/main/big_wooden_plate/big_plate.jpg?raw=true "Images for engraving")
+![Big Oak Wooden Plate](https://github.com/kotXio/woodworking/blob/main/big_wooden_plate/big_plate.jpg?raw=true "Big Oak Wooden Plate")
 
 
 ---
