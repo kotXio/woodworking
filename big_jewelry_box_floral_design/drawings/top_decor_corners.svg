@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2013"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2010" />
+  <g
+     id="layer1">
+    <g
+       id="g1988"
+       transform="translate(-53.136442,103.31065)">
+      <g
+         id="path16379"
+         transform="translate(0,3.837825)">
+        <path
+           style="color:#000000;fill:#808000;fill-opacity:0.950089;stroke-linecap:round;stroke-linejoin:round"
+           d="M 7.5820579,7.5824383 H 293.31692"
+           id="path16383" />
+        <path
+           style="color:#000000;fill:#008000;fill-opacity:0.361963;stroke-linecap:round;stroke-linejoin:round"
+           d="m 10.962312,7.0820312 c -0.276142,0 -0.5,0.2238576 -0.5,0.5 0,0.2761424 0.223858,0.5000001 0.5,0.5000001 H 289.98116 c 0.27614,0 0.5,-0.2238577 0.5,-0.5000001 0,-0.2761424 -0.22386,-0.5 -0.5,-0.5 z"
+           id="path16385" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:0.950089;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.361963"
+         d="M 0,-3.3333334e-8 15.509194,15.509194 H 285.39027 L 300.89898,4.8726667e-4 Z"
+         id="path18131" />
+    </g>
+    <g
+       id="g1992"
+       transform="rotate(90,27.961802,157.429)">
+      <path
+         style="color:#000000;fill:#008000;fill-opacity:0.361963;stroke-linecap:round;stroke-linejoin:round"
+         d="m 11.462312,10.920263 c -0.276142,0 -0.5,0.223858 -0.5,0.5 V 189.89703 c 0,0.27614 0.223858,0.5 0.5,0.5 0.276142,0 0.5,-0.22386 0.5,-0.5 V 11.420263 c 0,-0.276142 -0.223858,-0.5 -0.5,-0.5 z"
+         id="path18008" />
+      <path
+         style="fill:none;fill-opacity:0.950089;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.361963"
+         d="M 0.04974535,0.0500159 15.508923,15.509194 V 185.3908 L 0.04974633,200.84998 Z"
+         id="path18336" />
+    </g>
+  </g>
+</svg>
