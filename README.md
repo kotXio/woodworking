@@ -24,7 +24,7 @@
 
 [![Sound-reactive Glowing Wooden Box](https://img.youtube.com/vi/VWFkIC3c_Dk/0.jpg)](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
 
-## `How to Make` [Small Wooden Tripod](https://www.youtube.com/watch?v=orO6ofDPTj8)
+## `How to Make` [Foldable Wooden Tripod](https://www.youtube.com/watch?v=orO6ofDPTj8)
 [sources](https://github.com/kotXio/woodworking/tree/main/wooden_tripod)
 
 [![Small Wooden Tripod](https://img.youtube.com/vi/orO6ofDPTj8/0.jpg)](https://www.youtube.com/watch?v=orO6ofDPTj8)
