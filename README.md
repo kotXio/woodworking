@@ -23,10 +23,10 @@
 
 [![Wooden Apple Mac mini Riser Organizer / Tambour](https://img.youtube.com/vi/wSy2EWEsO64/0.jpg)](https://www.youtube.com/watch?v=wSy2EWEsO64)
 
-## `How to Make` [Decorative Wooden Table lamp Box / Color changing LED / Music reactive / WiFi controlled](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
+## `How to Make` [Gothic Wooden Table lamp Box / Color changing LED / Music reactive / WiFi controlled](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
 [sources](https://github.com/kotXio/woodworking/tree/main/glowing_wooden_box)
 
-[![Decorative Wooden Table lamp Box / Color changing LED / Music reactive / WiFi controlled](https://img.youtube.com/vi/VWFkIC3c_Dk/0.jpg)](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
+[![Gothic Wooden Table lamp Box / Color changing LED / Music reactive / WiFi controlled](https://img.youtube.com/vi/VWFkIC3c_Dk/0.jpg)](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
 
 ## `How to Make` [Foldable Wooden Tripod for mobile and DSLR](https://www.youtube.com/watch?v=orO6ofDPTj8)
 [sources](https://github.com/kotXio/woodworking/tree/main/wooden_tripod)
