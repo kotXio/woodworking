@@ -8,11 +8,15 @@
 
 ### Projects: 
 
+## `How to Make` [Creative Wooden Desk Lamp with Levitating Dimmer / Color changing LED / WiFi Control](https://youtu.be/Hq7b30xJSwQ)
+[sources](https://github.com/kotXio/woodworking/tree/main/creative_wooden_desk_lamp)
+
+[![Creative Wooden Desk Lamp with Levitating Dimmer](https://img.youtube.com/vi/Hq7b30xJSwQ/0.jpg)](https://www.youtube.com/watch?v=Hq7b30xJSwQ)
+
 ## `How to Make` [Wooden Round Maya Aztec Jewelry Box](https://www.youtube.com/watch?v=ne3xrzAO97I) 
 [sources](https://github.com/kotXio/woodworking/tree/main/maya_round_aztec_jewelrybox)
 
-[![Wooden Mac mini Tambour Stand Organizer](https://img.youtube.com/vi/ne3xrzAO97I/0.jpg)](https://www.youtube.com/watch?v=ne3xrzAO97I)
-
+[![Wooden Round Maya Aztec Jewelry Box](https://img.youtube.com/vi/ne3xrzAO97I/0.jpg)](https://www.youtube.com/watch?v=ne3xrzAO97I)
 
 ## `How to Make` [Wooden Mac mini Tambour Stand Organizer](https://www.youtube.com/watch?v=wSy2EWEsO64)
 [sources](https://github.com/kotXio/woodworking/tree/main/macmini_tambour_stand)
