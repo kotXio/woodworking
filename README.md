@@ -18,30 +18,30 @@
 
 [![Wooden Round Maya Aztec Jewelry Box](https://img.youtube.com/vi/ne3xrzAO97I/0.jpg)](https://www.youtube.com/watch?v=ne3xrzAO97I)
 
-## `How to Make` [Wooden Mac mini Tambour Stand Organizer](https://www.youtube.com/watch?v=wSy2EWEsO64)
+## `How to Make` [Wooden Apple Mac mini Riser Organizer / Tambour](https://www.youtube.com/watch?v=wSy2EWEsO64)
 [sources](https://github.com/kotXio/woodworking/tree/main/macmini_tambour_stand)
 
-[![Wooden Mac mini Tambour Stand Organizer](https://img.youtube.com/vi/wSy2EWEsO64/0.jpg)](https://www.youtube.com/watch?v=wSy2EWEsO64)
+[![Wooden Apple Mac mini Riser Organizer / Tambour](https://img.youtube.com/vi/wSy2EWEsO64/0.jpg)](https://www.youtube.com/watch?v=wSy2EWEsO64)
 
-## `How to Make` [Sound-reactive Glowing Wooden Box](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
+## `How to Make` [Decorative Wooden Table lamp Box / Color changing LED / Music reactive / WiFi controlled](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
 [sources](https://github.com/kotXio/woodworking/tree/main/glowing_wooden_box)
 
-[![Sound-reactive Glowing Wooden Box](https://img.youtube.com/vi/VWFkIC3c_Dk/0.jpg)](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
+[![Decorative Wooden Table lamp Box / Color changing LED / Music reactive / WiFi controlled](https://img.youtube.com/vi/VWFkIC3c_Dk/0.jpg)](https://www.youtube.com/watch?v=VWFkIC3c_Dk)
 
-## `How to Make` [Foldable Wooden Tripod](https://www.youtube.com/watch?v=orO6ofDPTj8)
+## `How to Make` [Foldable Wooden Tripod for mobile and DSLR](https://www.youtube.com/watch?v=orO6ofDPTj8)
 [sources](https://github.com/kotXio/woodworking/tree/main/wooden_tripod)
 
-[![Small Wooden Tripod](https://img.youtube.com/vi/orO6ofDPTj8/0.jpg)](https://www.youtube.com/watch?v=orO6ofDPTj8)
+[![Foldable Wooden Tripod for mobile and DSLR](https://img.youtube.com/vi/orO6ofDPTj8/0.jpg)](https://www.youtube.com/watch?v=orO6ofDPTj8)
 
-## `How to Make` [Magnetic Wooden Tripod Mount for iPhone](https://www.youtube.com/watch?v=p3HfRSA6CYs)
+## `How to Make` [Magnetic tripod mount for iPhone / Wooden/ MagSafe ready](https://www.youtube.com/watch?v=p3HfRSA6CYs)
 [sources](https://github.com/kotXio/woodworking/tree/main/iphone_magnetic_holder)
 
-[![Magnetic Wooden Tripod Mount for iPhone](https://img.youtube.com/vi/p3HfRSA6CYs/0.jpg)](https://www.youtube.com/watch?v=p3HfRSA6CYs)
+[![Magnetic tripod mount for iPhone / Wooden/ MagSafe ready](https://img.youtube.com/vi/p3HfRSA6CYs/0.jpg)](https://www.youtube.com/watch?v=p3HfRSA6CYs)
 
-## `How to Make` [Oak 4 Compartment Engraved Wooden Plate](https://www.youtube.com/watch?v=ocSn4xdQ-CY)
+## `How to Make` [Laser Engraved Wooden Plate from Oak](https://www.youtube.com/watch?v=ocSn4xdQ-CY)
 [sources](https://github.com/kotXio/woodworking/tree/main/4_compartment_wooden_plate)
 
-[![Oak 4 Compartment Engraved Wooden Plate](https://img.youtube.com/vi/ocSn4xdQ-CY/0.jpg)](https://www.youtube.com/watch?v=ocSn4xdQ-CY)
+[![Laser Engraved Wooden Plate from Oak](https://img.youtube.com/vi/ocSn4xdQ-CY/0.jpg)](https://www.youtube.com/watch?v=ocSn4xdQ-CY)
 
 ## Big Jewelry Box with Floral Design
 [Sources and drawings](https://github.com/kotXio/woodworking/blob/main/big_jewelry_box_floral_design)
