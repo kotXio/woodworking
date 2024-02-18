@@ -8,6 +8,11 @@
 
 ### Projects: 
 
+## `How to Make` [Unusual Wooden Pencil Box with Steampunk Engraving / Lasercutting / Tambour](https://youtu.be/GaRTW9gJBHk)
+[sources](https://github.com/kotXio/woodworking/tree/main/tambour_pencil_box)
+
+[![Unusual Wooden Pencil Box with Steampunk Engraving / Lasercutting / Tambour](https://img.youtube.com/vi/GaRTW9gJBHk/0.jpg)](https://www.youtube.com/watch?v=GaRTW9gJBHk)
+
 ## `How to Make` [Wooden Desk Lamp with Levitating Dimmer / Color changing LED / WiFi Control](https://youtu.be/Hq7b30xJSwQ)
 [sources](https://github.com/kotXio/woodworking/tree/main/creative_wooden_desk_lamp)
 
