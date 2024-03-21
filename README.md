@@ -8,6 +8,11 @@
 
 ### Projects: 
 
+## `How to Make` [Wooden Vertical Carousel Spice Organizer / Alchemy Design / Laser-cut](https://youtu.be/HA4Yt23j3-w)
+[sources](https://github.com/kotXio/woodworking/tree/main/vertical_carousel_spice_organizer)
+
+[![Wooden Vertical Carousel Spice Organizer / Alchemy Design / Laser-cut](https://img.youtube.com/vi/HA4Yt23j3-w/0.jpg)](https://www.youtube.com/watch?v=HA4Yt23j3-w)
+
 ## `How to Make` [Unusual Wooden Pencil Box with Steampunk Engraving / Lasercutting / Tambour](https://youtu.be/GaRTW9gJBHk)
 [sources](https://github.com/kotXio/woodworking/tree/main/tambour_pencil_box)
 
