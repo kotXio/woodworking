@@ -8,6 +8,11 @@
 
 ### Projects: 
 
+## `How to Make` [Gesture Controlled DNA Wooden Desk Lamp / Laser-cut](https://youtu.be/EM0RZgBZ6-U)
+[sources](https://github.com/kotXio/woodworking/tree/main/dna_gesture_wooden_lamp)
+
+[![Gesture Controlled DNA Wooden Desk Lamp / Laser-cut](https://img.youtube.com/vi/EM0RZgBZ6-U/0.jpg)](https://www.youtube.com/watch?v=EM0RZgBZ6-U)
+
 ## `How to Make` [Wooden Vertical Carousel Spice Rack / Alchemy Design / Laser-cut](https://youtu.be/HA4Yt23j3-w)
 [sources](https://github.com/kotXio/woodworking/tree/main/vertical_carousel_spice_rack)
 
