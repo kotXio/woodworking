@@ -8,6 +8,11 @@
 
 ### Projects: 
 
+## `How to Make` [Wooden Reactor Simulator: Nightlight, Desk Lamp, Sound Simulation and Dynamic Lighting Effects, Wireless Charger, USB Quick Charger, WiFi Controlled](https://youtu.be/-lhkESaGFso)
+[sources](https://github.com/kotXio/woodworking/tree/main/wooden_reactor)
+
+[![Wooden Reactor Simulator: Nightlight, Desk Lamp, Sound Simulation and Dynamic Lighting Effects, Wireless Charger, USB Quick Charger, WiFi Controlled](https://img.youtube.com/vi/-lhkESaGFso/0.jpg)](https://www.youtube.com/watch?v=-lhkESaGFso)
+
 ## `How to Make` [Gesture Controlled DNA Wooden Desk Lamp / Laser-cut](https://youtu.be/EM0RZgBZ6-U)
 [sources](https://github.com/kotXio/woodworking/tree/main/dna_gesture_wooden_lamp)
 
