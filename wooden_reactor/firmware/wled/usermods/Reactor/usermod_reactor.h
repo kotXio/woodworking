@@ -1,3 +1,16 @@
+/*
+ * That usermod implements support PCF8591 ADC/DAC module, DFPlayer mini MP3 player and PCA9685 PWM driver.
+ *
+ * 1. Attach PCF8591 module to i2c pins according to default pins for your board.
+ * 2. Attach PCA9685 PWM Servo Driver module to i2c pins according to default pins for your board.
+
+ * 2. Add "Adafruit BusIO @ ^1.16.1" , "Adafruit PWM Servo Driver Library @ ^3.0.2", "Adafruit PCF8591 @ ^1.0.4", "DFRobotDFPlayerMini @ ^1.0.6" dependency below to `lib_deps` like this:
+ * lib_deps = lib_deps = adafruit/Adafruit BusIO @ ^1.16.1
+ *   adafruit/Adafruit PWM Servo Driver Library @ ^3.0.2
+ *   adafruit/Adafruit PCF8591 @ ^1.0.4
+ *  dfrobot/DFRobotDFPlayerMini @ ^1.0.6
+ *  ${esp32.lib_deps}
+ */
 
 #pragma once
 
@@ -368,10 +381,10 @@ public:
     isPWM1 = true;
     pwm2.begin();
     isPWM2 = true;
-    //pwm1.setOscillatorFrequency(27000000);
+    // pwm1.setOscillatorFrequency(27000000);
     pwm1.setPWMFreq(1600);
 
-    //pwm2.setOscillatorFrequency(27000000);
+    // pwm2.setOscillatorFrequency(27000000);
     pwm2.setPWMFreq(1600);
 
     // https://kno.wled.ge/advanced/custom-features/#create-a-custom-effect-as-usermod
@@ -812,8 +825,8 @@ public:
       lampUdated();
       if (!switch1 && !switch2)
       {
-        // myDFPlayer.loopFolder(03); // loop folder 03
-        myDFPlayer.loopFolder(02); // loop folder 03
+        myDFPlayer.loopFolder(03); // loop folder 03
+        // myDFPlayer.loopFolder(02); // loop folder 03
       }
       return;
     }
@@ -831,8 +844,8 @@ public:
       lampUdated();
       if (!switch1 && !switch2)
       {
-        // myDFPlayer.playMp3Folder(32); // play out sound
-        myDFPlayer.playMp3Folder(22); // play out sound
+        myDFPlayer.playMp3Folder(32); // play out sound
+        // myDFPlayer.playMp3Folder(22); // play out sound
       }
       return;
     }
