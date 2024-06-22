@@ -77,6 +77,7 @@ Materials and tools used in this project:
 - Optical fiber 8mm, L=100 cm
 - Copper wire 1.7 mm
 - Screws 2.5x10 & 2.5x12 mm
+- 32x Bolts L=25 mm, D=3 mm
 - Wooden Glue Titebond 2
 - CA Glue Gel (Akrifix 705) + Activator
 - Acrylic glossy spray varnish
