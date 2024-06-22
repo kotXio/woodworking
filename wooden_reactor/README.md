@@ -1,12 +1,6 @@
-!!!Laser-cut layouts were added as is:
-
-This needs to be improved by grouping and adding information about material thickness.
-
-This will be done while writing the Instructables article, estimated date of 29 Jun 2024.
+Introducing the DIY Wooden Reactor Simulator—a versatile creation crafted from Oak, Alder, and Walnut veneers, encased in a glass flask with intricate copper wire details. This multifunctional piece boasts dynamic lighting effects including animated filaments, color-changing optical fibers, and immersive sound simulations for each phase. Controlled via WLED, it offers customizable brightness, sound volume, particle colors, and effects, making it ideal for both functional use and aesthetic enjoyment. Perfect for enthusiasts looking to integrate unique craftsmanship with advanced technology.
 
 <hr>
-
-Introducing the DIY Wooden Reactor Simulator—a versatile creation crafted from Oak, Alder, and Walnut veneers, encased in a glass flask with intricate copper wire details. This multifunctional piece boasts dynamic lighting effects including animated filaments, color-changing optical fibers, and immersive sound simulations for each phase. Controlled via WLED, it offers customizable brightness, sound volume, particle colors, and effects, making it ideal for both functional use and aesthetic enjoyment. Perfect for enthusiasts looking to integrate unique craftsmanship with advanced technology.
 
 Features:
 
