@@ -1,5 +1,8 @@
 Introducing the DIY Wooden Reactor Simulator—a versatile creation crafted from Oak, Alder, and Walnut veneers, encased in a glass flask with intricate copper wire details. This multifunctional piece boasts dynamic lighting effects including animated filaments, color-changing optical fibers, and immersive sound simulations for each phase. Controlled via WLED, it offers customizable brightness, sound volume, particle colors, and effects, making it ideal for both functional use and aesthetic enjoyment. Perfect for enthusiasts looking to integrate unique craftsmanship with advanced technology.
 
+Instructables link: https://www.instructables.com/Wooden-Reactor-Simulator-Nightlight-Desk-Lamp-Soun/
+
+How to make Video: https://youtu.be/-lhkESaGFso
 <hr>
 
 Features:
