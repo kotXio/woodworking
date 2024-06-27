@@ -9,6 +9,8 @@
 ### Projects: 
 
 ## `How to Make` [Wooden Reactor Simulator: Nightlight, Desk Lamp, Sound Simulation and Dynamic Lighting Effects, Wireless Charger, USB Quick Charger, WiFi Controlled](https://youtu.be/-lhkESaGFso)
+[Instructables article](https://www.instructables.com/Wooden-Reactor-Simulator-Nightlight-Desk-Lamp-Soun)
+
 [sources](https://github.com/kotXio/woodworking/tree/main/wooden_reactor)
 
 [![Wooden Reactor Simulator: Nightlight, Desk Lamp, Sound Simulation and Dynamic Lighting Effects, Wireless Charger, USB Quick Charger, WiFi Controlled](https://img.youtube.com/vi/-lhkESaGFso/0.jpg)](https://www.youtube.com/watch?v=-lhkESaGFso)
