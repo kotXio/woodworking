@@ -8,6 +8,13 @@
 
 ### Projects: 
 
+## `How to Make` [Animated Wooden Water Fountain with LED & Water Flow Effects](https://youtu.be/jXYM3CEzhvQ)
+
+[sources](https://github.com/kotXio/woodworking/tree/main/animated_wooden_water_fountain_w_harp)
+
+[![Animated Wooden Water Fountain with LED & Water Flow Effects](https://img.youtube.com/vi/jXYM3CEzhvQ/0.jpg)](https://www.youtube.com/watch?v=jXYM3CEzhvQ)
+
+
 ## `How to Make` [Wooden Reactor Simulator: Nightlight, Desk Lamp, Sound Simulation and Dynamic Lighting Effects, Wireless Charger, USB Quick Charger, WiFi Controlled](https://youtu.be/-lhkESaGFso)
 [Instructables article](https://www.instructables.com/Wooden-Reactor-Simulator-Nightlight-Desk-Lamp-Soun)
 
