@@ -9,6 +9,7 @@
 ### Projects: 
 
 ## `How to Make` [Animated Wooden Water Fountain with LED & Water Flow Effects](https://youtu.be/jXYM3CEzhvQ)
+[Instructables article](https://www.instructables.com/Animated-Wooden-Water-Fountain-With-LED-Water-Flow)
 
 [sources](https://github.com/kotXio/woodworking/tree/main/animated_wooden_water_fountain_w_harp)
 
