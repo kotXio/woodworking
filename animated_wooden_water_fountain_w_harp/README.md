@@ -1,3 +1,13 @@
+Welcome to this unique DIY project, where artistry meets technology in the form of a pattern-driven animated wooden fountain. This project showcases the creative use of dynamic LED patterns to control water flow, bringing together light, motion, and structure in a mesmerizing display. Built from old pine wood and featuring a walnut harp centerpiece, the fountain combines natural materials with modern tech to create constantly changing, captivating water animations.
+
+In designing this project, I set out with two primary goals. First, to craft a beautiful fountain from old wood using simple tools I have, and second, to realize an innovative use of animated LED patterns that could control water flow. The patterns designed for addressable LED strips synchronize with 24 mini water pumps, where each pump mirrors the brightness of specific LED pixels, producing a seamless and flowing water effect. The harp at the center features strings made from water streams, with animated lighting adding a unique touch.
+
+With WLED’s customizable patterns, the fountain never looks the same twice—every adjustment to colors or patterns produces a new visual experience. In addition to the visual impact, the project is WiFi-controlled, integrates with smart home systems, and supports scheduling, making it both a dynamic and adaptable addition to any space.
+
+Instructables: https://www.instructables.com/Animated-Wooden-Water-Fountain-With-LED-Water-Flow
+
+Video Tutorial: https://www.youtube.com/watch?v=-lhkESaGFso
+
 Components
 
     Pine board: 200 x 30 mm and 100 x 20 mm
